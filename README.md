@@ -1,3 +1,1 @@
-# Java Swing CRUD
-
-Aplikasi CRUD (Create Read Update Delete) sederhana pada bahasa pemgrograman Java dengan GUI Swing dan database MySQL/MariaDB. Aplikasi ini dibangun menggunakan Netbeans dengan Project Name "SekolahCRUD".
+StockApp is a mobile application designed to streamline inventory management and cashiering processes for pharmacies. Developed as a collaborative project, the app provides features for real-time stock tracking, product management, sales recording, and generating comprehensive reports.
